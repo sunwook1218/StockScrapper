@@ -1,0 +1,10 @@
+com/sun/scrap/vo/Stock.java
+ com.sun.scrap.vo.Stock
+com/sun/scrap/Scrapper.java
+ com.sun.scrap.Scrapper
+com/sun/scrap/vo/Quotation.java
+ com.sun.scrap.vo.Quotation
+com/sun/scrap/VolumeScrapper.java
+ com.sun.scrap.VolumeScrapper
+com/sun/scrap/Main.java
+ com.sun.scrap.Main
